@@ -102,9 +102,9 @@ if (typeof executed === 'undefined') {
     sparxsstext.style.transform = "translate(-50%, -50%)";
     sparxsstext.style.fontSize = "100px";
     sparxsstext.style.textAlign = "center";
-    sparxsstext.style.color = "#aaa"; 
-    sparxsstext.style.fontWeight = "bold"; 
-    sparxsstext.innerText = "vanta black";
+    sparxsstext.style.color = "#FFFFFF"; 
+    sparxsstext.style.fontWeight = "light"; 
+    sparxsstext.innerText = "Glenn is black";
 
     var invis2 = document.createElement("div");
     invis2.style.position = "fixed";

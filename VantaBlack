@@ -102,13 +102,9 @@ if (typeof executed === 'undefined') {
     sparxsstext.style.transform = "translate(-50%, -50%)";
     sparxsstext.style.fontSize = "75px";
     sparxsstext.style.textAlign = "center";
-    sparxsstext.style.color = "#FFFFFF"; 
+    sparxsstext.style.color = "#333"; 
     sparxsstext.style.fontWeight = "light"; 
     sparxsstext.innerText = "VantaBlack.";
-  sparxsstext.background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
 
 
 

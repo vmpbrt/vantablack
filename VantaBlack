@@ -100,11 +100,17 @@ if (typeof executed === 'undefined') {
     sparxsstext.style.top = "30%";
     sparxsstext.style.left = "50%";
     sparxsstext.style.transform = "translate(-50%, -50%)";
-    sparxsstext.style.fontSize = "60px";
+    sparxsstext.style.fontSize = "75px";
     sparxsstext.style.textAlign = "center";
     sparxsstext.style.color = "#FFFFFF"; 
     sparxsstext.style.fontWeight = "light"; 
-    sparxsstext.innerText = "lgbtq sucks proxy";
+    sparxsstext.innerText = "VantaBlack.";
+  sparxsstext.background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+
+
 
     var invis2 = document.createElement("div");
     invis2.style.position = "fixed";

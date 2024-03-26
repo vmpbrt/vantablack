@@ -100,11 +100,11 @@ if (typeof executed === 'undefined') {
     sparxsstext.style.top = "30%";
     sparxsstext.style.left = "50%";
     sparxsstext.style.transform = "translate(-50%, -50%)";
-    sparxsstext.style.fontSize = "100px";
+    sparxsstext.style.fontSize = "60px";
     sparxsstext.style.textAlign = "center";
     sparxsstext.style.color = "#FFFFFF"; 
     sparxsstext.style.fontWeight = "light"; 
-    sparxsstext.innerText = "glenn johnson gets no hoes";
+    sparxsstext.innerText = "jeremy delva charles stop being a pussy";
 
     var invis2 = document.createElement("div");
     invis2.style.position = "fixed";
